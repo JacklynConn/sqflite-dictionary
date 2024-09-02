@@ -1,4 +1,5 @@
 # sqlite_section2
+![Artboard 1 copy 2](https://github.com/user-attachments/assets/8b2b896e-00e5-48b7-9194-8f810f3b6415)
 
 A new Flutter project.
 
